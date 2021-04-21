@@ -1,2 +1,16 @@
 # HSI-Object-Detection-NPU
-Raw hyperspectral images and processed data can be found [Link,password: y4mp]( https://pan.baidu.com/s/14nJovxv8d23ZvvBSV3hYaw)
+We have released our dataset proposed in paper 'Object Detection in Hyperspectral Images'. 
+Raw hyperspectral images and processed data (96-channel) can be found at [Link]( https://pan.baidu.com/s/14nJovxv8d23ZvvBSV3hYaw), password: y4mp.
+If you use these datasets in your researches or works, please cite our paper as follow:
+
+```
+@article{yan2021object,
+  title={Object Detection in Hyperspectral Images},
+  author={Yan, Longbin and Zhao, Min and Wang, Xiuheng and Zhang, Yuge and Chen, Jie},
+  journal={IEEE Signal Processing Letters},
+  volume={28},
+  pages={508--512},
+  year={2021},
+  publisher={IEEE}
+}
+```
