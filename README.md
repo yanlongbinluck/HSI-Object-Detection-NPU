@@ -16,7 +16,12 @@ If you use these datasets in your researches or works, please cite our paper as 
   publisher={IEEE}
 }
 ```
-1.Training
+1.Main libraries
+torch==1.1.0
+cuda==10.0
+libtiff==0.4.2
+
+2.Training
 
 generate label json file
 ```
@@ -28,11 +33,16 @@ then
 ```
 python train.py
 ```
+Note that due to samll scale of training dataset, the mAP may have relatively large jitters (about 2 mAP) with different random seeds.
 
-2.eval
+3.Eval
 
 ```
 python eval.py
 ```
 
-pretrained model download: [[baidu cloud](https://pan.baidu.com/s/11mQsR10Z35EH6Kw9__LyrA), password: 5s97]
+our pretrained model: [baidu cloud](https://pan.baidu.com/s/11mQsR10Z35EH6Kw9__LyrA)
+
+4.Acknowledgements
+
+Our work is implemented based on [this](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) repo, thanks for this work.
