@@ -16,3 +16,23 @@ If you use these datasets in your researches or works, please cite our paper as 
   publisher={IEEE}
 }
 ```
+1.Training
+
+generate label json file
+```
+python create_data_lists.py
+```
+
+then
+
+```
+python train.py
+```
+
+2.eval
+
+```
+python eval.py
+```
+
+pretrained model download: [[baidu cloud](https://pan.baidu.com/s/11mQsR10Z35EH6Kw9__LyrA), password: 5s97]
