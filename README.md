@@ -39,7 +39,7 @@ our pretrained model: [baidu cloud](https://pan.baidu.com/s/11mQsR10Z35EH6Kw9__L
 
 Our work is implemented based on [this](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) repo, thanks for this work.
 
-If you use these datasets in your researches or works, please cite our paper as follow:
+If you use our work in your researches, please cite our paper as follow:
 
 ```
 @article{yan2021object,
