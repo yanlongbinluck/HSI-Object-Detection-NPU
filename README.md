@@ -33,7 +33,7 @@ Note that due to samll scale of training dataset, the mAP may have relatively la
 python eval.py
 ```
 
-our pretrained model: [baidu cloud](https://pan.baidu.com/s/11mQsR10Z35EH6Kw9__LyrA)
+our pretrained model: [baidu cloud](https://pan.baidu.com/s/1E-mpqhNiuR4AYU7ZhDa4Uw) (password:mg57)
 
 4.Acknowledgements
 
